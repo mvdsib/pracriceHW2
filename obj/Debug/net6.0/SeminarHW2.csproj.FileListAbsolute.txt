@@ -1,0 +1,15 @@
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\GBHome1\SeminarHW2\bin\Debug\net6.0\SeminarHW2.exe
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\GBHome1\SeminarHW2\bin\Debug\net6.0\SeminarHW2.deps.json
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\GBHome1\SeminarHW2\bin\Debug\net6.0\SeminarHW2.runtimeconfig.json
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\GBHome1\SeminarHW2\bin\Debug\net6.0\SeminarHW2.dll
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\GBHome1\SeminarHW2\bin\Debug\net6.0\SeminarHW2.pdb
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\GBHome1\SeminarHW2\obj\Debug\net6.0\SeminarHW2.csproj.AssemblyReference.cache
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\GBHome1\SeminarHW2\obj\Debug\net6.0\SeminarHW2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\GBHome1\SeminarHW2\obj\Debug\net6.0\SeminarHW2.AssemblyInfoInputs.cache
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\GBHome1\SeminarHW2\obj\Debug\net6.0\SeminarHW2.AssemblyInfo.cs
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\GBHome1\SeminarHW2\obj\Debug\net6.0\SeminarHW2.csproj.CoreCompileInputs.cache
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\GBHome1\SeminarHW2\obj\Debug\net6.0\SeminarHW2.dll
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\GBHome1\SeminarHW2\obj\Debug\net6.0\refint\SeminarHW2.dll
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\GBHome1\SeminarHW2\obj\Debug\net6.0\SeminarHW2.pdb
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\GBHome1\SeminarHW2\obj\Debug\net6.0\SeminarHW2.genruntimeconfig.cache
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\GBHome1\SeminarHW2\obj\Debug\net6.0\ref\SeminarHW2.dll
